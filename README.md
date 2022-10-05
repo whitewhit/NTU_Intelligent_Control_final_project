@@ -7,8 +7,8 @@
 ### 1.動機
 
 >1.我國養殖漁業具有龐大的經濟價值  
+![養殖漁業產值](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20003238.png)  
 >2.以養殖魚業賴以為生的魚戶達3萬餘戶，面積也達4萬多公頃
-![養殖漁業產值](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20003238.png)
 
     1.我國養殖漁業具有龐大的經濟價值
     2.以養殖魚業賴以為生的魚戶達3萬餘戶，面積也達4萬多公頃
@@ -26,26 +26,30 @@
 + 3. 大氣壓力(hPa) : 大氣壓力越高，水中溶氧量越高
 + 4. 魚群飼養密度(kg/m^3) : 因為魚群會隨時間成長，因此此項會根據飼養時間推測其平均重量來更改輸入  
   
-![系統示意圖](https://drive.google.com/drive/u/0/folders/1zuA4AZa-neyXKk6NJH9dMgpt5Tn1IPlD)
+![系統示意圖](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20003859.png)
 
 #### 輸入函數
 
 + 1.溫度分成三個等級:  
   + Cold : 5~22(︒C)  
   + Normal : 12~32 (︒C)  
-  + Hot : 22~40(︒C)
+  + Hot : 22~40(︒C)  
+![溫度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20011041.png>)
 + 2.增氧機負荷面積分成三個等級:  
   + small : 1500~3200 (m^2/台)  
   + normal : 2200~4300 (m^2/台)  
-  + big : 3200~5000 (m^2/台)
+  + big : 3200~5000 (m^2/台)  
+![負荷面積](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20011052.png)
 + 3.大氣壓力分為三個等級:  
   + small :Low:990~1013  (hPa)  
   + normal : normal:1003~1023 (hPa)  
   + big : high:1013~1030 (hPa)  
+![大氣壓力](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20011102.png)
 + 4.飼養密度分為三個等級:  
   + low:0.3~1.3(kg/m^3)  
   + normal:0.9~1.7 (kg/m^3)  
   + high:1.3~2.3 (kg/m^3)  
+![飼養密度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20011110.png)
 
 #### 輸出函數
 
