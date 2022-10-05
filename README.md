@@ -24,7 +24,7 @@
 + 3. 大氣壓力(hPa) : 大氣壓力越高，水中溶氧量越高
 + 4. 魚群飼養密度(kg/m^3) : 因為魚群會隨時間成長，因此此項會根據飼養時間推測其平均重量來更改輸入  
   
-![系統示意圖](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20003859.png)
+![系統示意圖](https://drive.google.com/drive/u/0/folders/1zuA4AZa-neyXKk6NJH9dMgpt5Tn1IPlD)
 
 #### 輸入函數
 
