@@ -34,7 +34,7 @@
   + Cold : 5~22(︒C)  
   + Normal : 12~32 (︒C)  
   + Hot : 22~40(︒C)  
-![溫度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20011041.png>)
+![溫度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20011041.png)
 + 2.增氧機負荷面積分成三個等級:  
   + small : 1500~3200 (m^2/台)  
   + normal : 2200~4300 (m^2/台)  
