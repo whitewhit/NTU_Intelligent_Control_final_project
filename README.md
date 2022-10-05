@@ -61,6 +61,7 @@
   + medium:100~140(min)
   + longer:120~180(min)
   + longest:150~180(min)
+![時間](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20011819.png))
 
 #### 規則
 
@@ -96,6 +97,16 @@
 #### 輸出結果
 
 如果將所有輸入及輸出一次全部畫在圖上時，結果圖會是一張五維圖，不好觀察出關係，而且也十分的不直觀。因此在表示地方面，我們決定先任選其中兩項因素並固定其數值，這樣畫出的關係圖會是三維圖，比較直觀。
+
++ ![固定飼養密度、增氧機負荷面積](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014223.png)
++ ![固定溫度、負荷面積](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014257.png)  
+![固定溫度、負荷面積](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014306.png)
++ ![固定氣壓、溫度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014315.png)  
+![固定氣壓、溫度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014324.png)
++ ![固定氣壓、飼養密度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014337.png)  
+![固定氣壓、飼養密度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014411.png)  
++ ![固定負荷面積、氣壓](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014425.png)
++ ![溫度、飼養密度](https://github.com/whitewhit/NTU_Intelligent_Control_final_project/blob/main/fuzzy%E5%9C%96%E7%89%87/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-10-06%20014436.png)
 
 #### 結果討論
 
